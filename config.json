@@ -359,6 +359,13 @@
       "injectFile": "ZipZap.framework/Versions/A/ZipZap"
     },
     {
+      "packageName": "com.ulyssesapp.mac",
+      "needCopyToAppDir": true,
+      "deepSignApp": true,
+      "noDeep": true,
+      "injectFile": "KissXML.framework/Versions/A/KissXML"
+    },
+    {
       "packageName": "tonyapp.devutils",
       "needCopyToAppDir": true,
       "deepSignApp": true,
