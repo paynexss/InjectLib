@@ -199,9 +199,9 @@ https://twitter.com/QiuChenly
 |:-------------------------|:-------------|:-----:|:-----:|:------------------------------|
 | Adobe PhotoShop          | 通杀           |   ✅   |   ✅   | PS:Intel上的神经滤镜已经完美可用 ARM的暂时不行 |
 | Adobe Acrobat Pro        | 23.006.20360 |   ✅   |   ✅   |                               |
-| Adobe Illustrator        | 28.0.0       |   ✅   |   ✅   | ARM64 测试通过 X86没有测试过 大家自行测试    |
-| Adobe Lightroom          | 7.0          |   ❌   |   ✅   | 注入后先点试用 然后过期后可以正常使用           |
-| Adobe Lightroom Classic  | 13.0.1       |   ❌   |   ✅   | 注入后先点试用 然后过期后可以正常使用           |
+| Adobe Illustrator        | 28.1.0       |   ✅   |   ❌   | ARM64没有测试过 X86测试过    |
+| Adobe Lightroom          | 7.0          |   ✅   |   ✅   | 注入后先点试用 然后过期后可以正常使用           |
+| Adobe Lightroom Classic  | 13.0.1       |   ✅   |   ✅   | 注入后先点试用 然后过期后可以正常使用           |
 | Adobe InCopy 2024        | 19.0.0.151   |   ✅   |   ❌   | 在M1 Mac Mini 中测试通过            |
 | Adobe InDesign 2024      | 19.0.0.151   |   ✅   |   ❌   | 在M1 Mac Mini 中测试通过            |
 | Adobe Premiere Pro 2024  | 24.0.0       |   ✅   |   ✅   | 在M1 Mac Mini 中测试通过            |
