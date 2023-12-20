@@ -366,6 +366,13 @@
       "injectFile": "KissXML.framework/Versions/A/KissXML"
     },
     {
+      "packageName": "app.mindmac.macos",
+      "needCopyToAppDir": true,
+      "deepSignApp": true,
+      "noDeep": true,
+      "injectFile": "Paddle.framework/Versions/A/Paddle"
+    },
+    {
       "packageName": "tonyapp.devutils",
       "needCopyToAppDir": true,
       "deepSignApp": true,
