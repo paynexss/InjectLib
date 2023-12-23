@@ -453,16 +453,17 @@ PD 19 说明与注意事项:<br>
 
 已测试支持以下App:
 
-| App           | 版本     | 特殊说明                                           |
-|:--------------|:-------|:-----------------------------------------------|
-| AlDente Pro   | 1.22   |                                                |
-| AirBuddy      | 2.7.1  |                                                |
-| Downie 4      | 4.6.27 | `B7EE3D3C-B7EE3D3C-B7EE3D3C-B7EE3D3C-B7EE3D3C` |
-| One Switch    | 1.31   |                                                |
-| Rectangle Pro | 3.0.8  |                                                |
-| Swish         | 1.10.2 |                                                |
-| TG Pro        | 2.8.2  |                                                |
-| Timemator     | 3.0.3  |                                                |
+| App           | 版本      | 特殊说明                                           |
+|:--------------|:--------|:-----------------------------------------------|
+| AlDente Pro   | 1.22    |                                                |
+| AirBuddy      | 2.7.1   |                                                |
+| Downie 4      | 4.6.27  | `B7EE3D3C-B7EE3D3C-B7EE3D3C-B7EE3D3C-B7EE3D3C` |
+| One Switch    | 1.31    |                                                |
+| Rectangle Pro | 3.0.8   |                                                |
+| Swish         | 1.10.2  |                                                |
+| TG Pro        | 2.8.2   |                                                |
+| Timemator     | 3.0.3   |                                                |
+| Multitouch    | 1.27.23 |                                                |
 
 Surge可以利用拦截修改http返回值的方式破解下面的app而无需修改原始App。下面是脚本破解步骤，如果你不需要用下面的App，看到这里就可以关闭网页了。
 
