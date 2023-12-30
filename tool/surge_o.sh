@@ -48,8 +48,6 @@ src_info='/Applications/Surge.app/Contents/Info.plist'
 /usr/libexec/PlistBuddy -c "Set :SMPrivilegedExecutables:com.nssurge.surge-mac.helper \"identifier \\\"com.nssurge.surge-mac.helper\\\"\"" "$src_info"
 # /usr/libexec/PlistBuddy -c 'Print SMPrivilegedExecutables' "$src_info"
 
-sudo cp "$PWD/tool/libInjectLib_Legacy.dylib" /Applications/Surge.app/Contents/Frameworks/libInjectLib.dylib
-
 codesign -f -s - --all-architectures --deep /Applications/Surge.app/Contents/Library/LaunchServices/com.nssurge.surge-mac.helper
 codesign -f -s - --all-architectures --deep /Applications/Surge.app
 # python /Users/qiuchenly/Downloads/SMJobBless/SMJobBlessUtil.py check /Applications/Surge.app
