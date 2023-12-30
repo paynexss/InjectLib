@@ -42,6 +42,20 @@
       "deepSignApp": true
     },
     {
+      "packageName": "com.setapp.DesktopClient",
+      "injectFile": "Sparkle.framework/Versions/B/Sparkle",
+      "needCopyToAppDir": true,
+      "deepSignApp": true,
+      "noDeep": true
+    },
+    {
+      "packageName": "com.moneywiz.personalfinance",
+      "injectFile": "Charts.framework/Versions/A/Charts",
+      "needCopyToAppDir": true,
+      "deepSignApp": true,
+      "noDeep": true
+    },
+    {
       "packageName": "com.parallels.desktop.console",
       "bridgeFile": "/Contents/MacOS/Parallels Service.app/Contents/MacOS/",
       "injectFile": "prl_disp_service",
@@ -160,7 +174,10 @@
     },
     {
       "packageName": ["com.navicat.NavicatPremium"],
-      "injectFile": "NAVTabBarView.framework/Versions/A/NAVTabBarView"
+      "injectFile": "EE.framework/Versions/A/EE",
+      "needCopyToAppDir": true,
+      "deepSignApp": true,
+      "noDeep": true
     },
     {
       "packageName": "com.adobe.Photoshop",
